@@ -1,0 +1,9 @@
+C:\Users\Sam\Grocery\GroceryStore\GroceryStore\obj\Debug\net7.0\GroceryStore.csproj.AssemblyReference.cache
+C:\Users\Sam\Grocery\GroceryStore\GroceryStore\obj\Debug\net7.0\GroceryStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Grocery\GroceryStore\GroceryStore\obj\Debug\net7.0\GroceryStore.AssemblyInfoInputs.cache
+C:\Users\Sam\Grocery\GroceryStore\GroceryStore\obj\Debug\net7.0\GroceryStore.AssemblyInfo.cs
+C:\Users\Sam\Grocery\GroceryStore\GroceryStore\obj\Debug\net7.0\GroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Grocery\GroceryStore\GroceryStore\obj\Debug\net7.0\GroceryStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sam\Grocery\GroceryStore\GroceryStore\obj\Debug\net7.0\GroceryStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sam\Grocery\GroceryStore\GroceryStore\obj\Debug\net7.0\GroceryStore.RazorAssemblyInfo.cache
+C:\Users\Sam\Grocery\GroceryStore\GroceryStore\obj\Debug\net7.0\GroceryStore.RazorAssemblyInfo.cs
